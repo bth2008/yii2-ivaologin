@@ -2,6 +2,7 @@
     "name": "bth2008/yii2-ivaologin",
     "version": "0.1.0",
     "type": "yii2-extension",
+    "minimum-stability": "dev",
     "description": "The ability to external authentication with IVAO network",
     "keywords": ["IVAO"],
     "license": "BSD-3-Clause",
