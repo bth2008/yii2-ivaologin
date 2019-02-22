@@ -1,5 +1,6 @@
 {
     "name": "bth2008/yii2-ivaologin",
+    "version": "0.0.1",
     "type": "yii2-extension",
     "description": "The ability to external authentication with IVAO network",
     "keywords": ["IVAO"],
