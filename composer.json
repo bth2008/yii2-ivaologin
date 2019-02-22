@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "bth2008\\ivaologin": "src"
+            "bth2008\\ivaologin\\": "src"
         }
     }
 }
