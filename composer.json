@@ -1,0 +1,32 @@
+{
+    // package name
+    "name": "bth2008/yii2-ivaologin",
+
+    // package type
+    "type": "yii2-extension",
+
+    "description": "The ability to external authentication with IVAO network",
+    "keywords": ["IVAO"],
+    "license": "BSD-3-Clause",
+    "support": {
+        "source": "https://github.com/yiisoft/yii2"
+    },
+    "authors": [
+        {
+            "name": "Alexander Shakhmukhametov",
+            "email": "diablus2012@gmail.com"
+        }
+    ],
+
+    // package dependencies
+    "require": {
+        "yiisoft/yii2": "~2.0.0",
+    },
+
+    // class autoloading specs
+    "autoload": {
+        "psr-4": {
+            "bth2008\\ivaologin\\": "src"
+        }
+    }
+}
