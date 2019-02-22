@@ -18,7 +18,6 @@
         "yiisoft/yii2": "~2.0.0",
     },
 
-    // class autoloading specs
     "autoload": {
         "psr-4": {
             "bth2008\\ivaologin\\": "src"
